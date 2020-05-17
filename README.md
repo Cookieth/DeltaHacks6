@@ -2,6 +2,11 @@
 
 This was an exclusively 2-day project created by students at the University of Waterloo and McMaster at Deltahacks VI. Awarded **1st Place: Best Education Hack** at the event, this script is able to compress the length of any `.mp3` audio file by extracting all silent parts.
 
+For more info, see:
+*  [Devpost Link](https://devpost.com/software/lectr-me-4nlmxt)
+*  [DeltaHacks Devpost Winners](https://deltahacks6.devpost.com/submissions)
+*  [DeltaHacks Info](https://www.deltahacks.com/)
+
 ## Backstory
 
 As university students, we are constantly facing the challenge of time-management. With the average lecture being [100 hours](https://stack.dailybruin.com/2018/11/08/how-long-are-lectures/), going up to 200 hours for arts students, we're faced with an incredibly small amount of time to complete coursework and have time for ourselves.
