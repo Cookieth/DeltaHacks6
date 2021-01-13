@@ -2,7 +2,7 @@
 
 This was an exclusively 2-day project created by students at the University of Waterloo and McMaster at Deltahacks VI. Awarded **1st Place: Best Education Hack** at the event, this script is able to compress the length of any `.mp3` audio file by extracting all silent parts.
 
-**Devpost Winning Entry: devpost.com/software/lectr-me-4nlmxt**
+**Devpost Winning Entry: [devpost.com/software/lectr-me-4nlmxt](devpost.com/software/lectr-me-4nlmxt)**
 
 For more info, see:
 *  [Devpost Link](https://devpost.com/software/lectr-me-4nlmxt)
